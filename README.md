@@ -1,0 +1,1 @@
+# Equity-research-helper
