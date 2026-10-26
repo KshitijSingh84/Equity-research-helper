@@ -7,7 +7,7 @@ import os
 from anthropic import Anthropic
 from dotenv import load_dotenv
 
-load_dotenv()                      # loads your API key from the .env file
+load_dotenv()                      
 client = Anthropic()
 MODEL = "claude-sonnet-5-5"
 
@@ -66,7 +66,7 @@ def ask_claude(transcript):
     if response.stop_reason == "max_tokens":
         raise RuntimeError("Response was cut off. Increase max_tokens.")
 
-    # Keep only the text blocks, skipping any thinking blocks
+  
     raw = "".join(b.text for b in response.content if b.type == "text")
 
     start, end = raw.find("{"), raw.rfind("}")
