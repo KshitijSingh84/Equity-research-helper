@@ -1,0 +1,572 @@
+{
+  "company": "Zen Technologies Limited",
+  "earlier_label": "zen_1 (Q1 FY26 call, 28 Jul 2025)",
+  "later_label": "zen_2 (Q2 FY26 call, 27 Oct 2025)",
+  "financial_table": [
+    {
+      "topic": "Standalone revenue from operations",
+      "earlier": "Q1 FY26: Rs.111 Cr vs Rs.253 Cr in Q1 FY25 (about -55% YoY)",
+      "later": "Q2 FY26: Rs.124.65 Cr vs Rs.241.69 Cr in Q2 FY25 (about -48% YoY by calculation)",
+      "change": "Up about 12% QoQ (Rs.111 Cr to Rs.124.65 Cr). YoY decline narrowed from -55% to about -48%, but revenue is still roughly half of last year.",
+      "quote_earlier": "Our revenue from operation was Rs.111 Crores compared to Rs.253 Crores in Q1 FY2025.",
+      "quote_later": "Our revenue from operation was Rs.124.65 Crores, compared to Rs.241.69 Crores in Q2 FY2025."
+    },
+    {
+      "topic": "Standalone operational EBITDA and margin",
+      "earlier": "Q1 FY26: Rs.38.05 Cr vs Rs.103.20 Cr; margin 34.26% vs 40.64%",
+      "later": "Q2 FY26: Rs.42.10 Cr vs Rs.79.69 Cr; margin 34% vs 33%",
+      "change": "EBITDA up about 11% QoQ. Margin is flat at about 34%, around the 35% benchmark, with a sequential change of about -0.3 pt.",
+      "quote_earlier": "Our operational EBITDA for the Q1 FY2026 decreased to Rs.38.05 Crores compared to Rs.103.20 Crores in Q1 FY2025.",
+      "quote_later": "Our Operational EBITDA for the Q2 FY2026 decreased to Rs.42.10 Crores compared to Rs.79.69 Crores in Q2 FY2025."
+    },
+    {
+      "topic": "Standalone PAT and margin",
+      "earlier": "Q1 FY26: Rs.37.12 Cr vs Rs.74 Cr; PAT margin 33.44% vs 29.20%",
+      "later": "Q2 FY26: Rs.46.16 Cr vs Rs.65.24 Cr; PAT margin 37% vs 27%",
+      "change": "PAT up about 24% QoQ. Margin up about 3.6 pts to 37%, helped by other income (total EBITDA margin is 52%) rather than operations.",
+      "quote_earlier": "Our profit after tax has decreased to Rs. 37.12 Crores compared to Rs.74 Crores in the same period last year",
+      "quote_later": "Our profit after tax has decreased to Rs. 46.16 Crores in Q2 FY2026 compared to Rs. 65.24 Crores in the same period last year."
+    },
+    {
+      "topic": "Consolidated revenue",
+      "earlier": "Q1 FY26: Rs.158 Cr vs Rs.254 Cr in Q1 FY25 (-38% YoY)",
+      "later": "Q2 FY26: Rs.173.57 Cr; degrowth of 28% YoY. The transcript states the Q2 FY25 base as Rs.24.84 Cr, which looks like a misstatement.",
+      "change": "Up about 10% QoQ. YoY decline narrowed from -38% to -28%.",
+      "quote_earlier": "So our revenue from operation was Rs.158 Crores compared to Rs.254 Crores in Q1 FY2025.",
+      "quote_later": "Total consolidated revenue for the Q2 FY2026 is around Rs.173.57 Crores compared to Rs.24.84 Crores in Q2 FY2025."
+    },
+    {
+      "topic": "Consolidated operational EBITDA and margin",
+      "earlier": "Q1 FY26: Rs.64.70 Cr vs Rs.111.35 Cr; margin 40.90% vs 43%",
+      "later": "Q2 FY26: Rs.65.54 Cr vs Rs.80.31 Cr; margin 38% vs 33%",
+      "change": "EBITDA up about 1% QoQ. Margin down about 2.9 pts QoQ (40.90% to 38%), so the subsidiary margin cushion is narrowing.",
+      "quote_earlier": "Our operational EBITDA for the Q1 FY2026 decreased to Rs.64.70 Crores compared to Rs.111.35 Crores in Q1 FY2025.",
+      "quote_later": "Our consolidated operational EBITDA for the Q2 FY2026 has decreased to Rs.65.54 Crores compared to Rs.80.31 Crores in Q2 FY2025."
+    },
+    {
+      "topic": "Consolidated PAT and margin",
+      "earlier": "Q1 FY26: Rs.47.75 Cr vs Rs.76.81 Cr; margin 30% vs 30%",
+      "later": "Q2 FY26 (after non-controlling interest): Rs.59.40 Cr vs Rs.62.67 Cr; margin 34% vs 26%",
+      "change": "PAT up about 24% QoQ. Margin up about 4 pts. The YoY gap is nearly closed (-5% in Q2 vs -38% in Q1).",
+      "quote_earlier": "Our consolidated profit after tax has decreased to Rs.47.75 Crores compared to 76.81 Crores in the same period last year.",
+      "quote_later": "has decreased to Rs.59.40 Crores compared to Rs.62.67 Crores in Q2 FY2025."
+    },
+    {
+      "topic": "H1 FY26 standalone revenue",
+      "earlier": "Not mentioned",
+      "later": "H1 FY26: Rs.235.71 Cr vs Rs.495.64 Cr in H1 FY25; operational EBITDA margin 34% vs 37%",
+      "change": "Down about 52% YoY for the half (calculated). Only reported in the later call.",
+      "quote_earlier": null,
+      "quote_later": "our revenue for the H1 FY2026 is Rs.235.71 Crores compared to Rs.495.64 Crores in H1 FY2025."
+    },
+    {
+      "topic": "H1 FY26 consolidated revenue",
+      "earlier": "Not mentioned",
+      "later": "H1 FY26: Rs.331.79 Cr vs Rs.496.46 Cr in H1 FY25; operational EBITDA margin 40% vs 39%; PAT Rs.107.15 Cr vs Rs.139.48 Cr",
+      "change": "Down about 33% YoY (calculated). Margins held up but absolute profit is lower.",
+      "quote_earlier": null,
+      "quote_later": "Rs. 331.79 Crores compared to Rs.496.46 Crores in H1 FY2025."
+    },
+    {
+      "topic": "Net cash and balance sheet",
+      "earlier": "Not mentioned",
+      "later": "Net cash of Rs.1103 Cr as on 30 Sep 2025; debt free; asset-light model",
+      "change": "New disclosure. A strong liquidity cushion while operations are weak.",
+      "quote_earlier": null,
+      "quote_later": "Our net cash position as on 30th September 2025 is Rs.1103 Crores"
+    }
+  ],
+  "guidance_changes": [
+    {
+      "topic": "FY26 revenue outlook",
+      "earlier": "FY26 described as muted. No figure given, because it depends on the order book at end of Q2.",
+      "later": "H2 will be below last year and the whole year will be muted. 'Whole year muted' is stated explicitly.",
+      "change": "Maintained muted, with a slightly more negative tone. Still no number.",
+      "quote_earlier": "but to your question we are not able to give the exact figure for this year at this point in time.",
+      "quote_later": "it will not be as good as last year, but it will be muted. The whole year will be muted."
+    },
+    {
+      "topic": "Cumulative FY26-FY28 revenue target of Rs.6000 Cr",
+      "earlier": "Very confident of achieving the 6000 plus Cr target over FY26-28",
+      "later": "Rs.6000 Cr less FY26 execution to be executed in FY27-28. Management says the chance of it spilling to FY29 is not there as of now.",
+      "change": "Maintained, but more back-loaded. A weak H1 means FY27-28 must absorb almost the whole figure, and the 'plus' is no longer used.",
+      "quote_earlier": "we still feel very confident that we can achieve the 6000 plus Crores target",
+      "quote_later": "I think the chance of this Rs.6000 Crores going to FY2029 is not there as of now"
+    },
+    {
+      "topic": "Quarterly run-rate needed to reach the target",
+      "earlier": "Not mentioned",
+      "later": "Management says scaling from Rs.250-300 Cr to Rs.500 Cr per quarter is easy, and Rs.750 Cr per quarter would 'require some changes' but is hoped for.",
+      "change": "New. Management is defending feasibility after an analyst challenge.",
+      "quote_earlier": null,
+      "quote_later": "will we be able to scale to Rs.500 Crores? I think that is easy. 750 would require some changes, but we are hopeful that we will be able to achieve that."
+    },
+    {
+      "topic": "Operating margin guidance",
+      "earlier": "Operational EBITDA guidance of about 35% (simulators higher, ADS lower)",
+      "later": "Margins sustainable for at least the next couple of years; no threat seen",
+      "change": "Maintained, with a sustainability claim added. Management concedes it will match competitors aggressively if needed.",
+      "quote_earlier": "Our guidance is around 35%.",
+      "quote_later": "these margins are sustainable, at least in the next couple of years, we do not see any threat of margins being compromised."
+    },
+    {
+      "topic": "FY26 capex",
+      "earlier": "Capex of Rs.40 to 50 Cr in FY26",
+      "later": "Not mentioned",
+      "change": "Unclear. Not reiterated.",
+      "quote_earlier": "In FY2026 there is no significant, maybe Rs.40 to 50 Crores capex will be there.",
+      "quote_later": null
+    },
+    {
+      "topic": "Subsidiary revenue contribution in FY26",
+      "earlier": "About Rs.250 Cr added at consolidated level (ARIPL Rs.170 Cr, others about Rs.80 Cr); EBITDA about 35%, PAT about 25%",
+      "later": "Not mentioned",
+      "change": "Unclear. Not reiterated, though H1 consolidated minus standalone revenue implies only about Rs.96 Cr from subsidiaries.",
+      "quote_earlier": "you can add Rs.250 Crores revenue from the subsidiaries.",
+      "quote_later": null
+    },
+    {
+      "topic": "FY27 order and revenue outlook",
+      "earlier": "FY27 and FY28 expected to be very large years vs FY26",
+      "later": "In FY27 order sizes will be very big, and the acceleration continues",
+      "change": "Maintained. The dependence on FY27 has grown.",
+      "quote_earlier": "we do expect 2027 and 2028 to be very, very large years compared to 2026.",
+      "quote_later": "in 27, I think the size of the orders are going to be very, very big"
+    }
+  ],
+  "order_book_changes": [
+    {
+      "topic": "Total order book size",
+      "earlier": "About Rs.754 Cr consolidated, of which Rs.148 Cr is subsidiaries. Zen standalone is about Rs.605 Cr, including AMC of about Rs.260 Cr and equipment of Rs.346 Cr.",
+      "later": "Under Rs.675 Cr consolidated: equipment Rs.375 Cr and the rest AMC. Zen Rs.484 Cr, UTS about Rs.98 Cr, ARIPL about Rs.92 Cr, Vector about Rs.1 Cr; subsidiaries total Rs.190 Cr.",
+      "change": "Down about 10% QoQ. Zen standalone fell about 20% (Rs.605 Cr to Rs.484 Cr) while subsidiaries rose about 28% (Rs.148 Cr to Rs.190 Cr).",
+      "quote_earlier": "our total order book position is around Rs.754 Crore out of which 148 Crores rupees is for the subsidiaries",
+      "quote_later": "total order book position is on a consolidated basis, it is under Rs.675 Crores, out of which Rs.375 Crores is equipment and remaining is for the AMC."
+    },
+    {
+      "topic": "Order inflow in the quarter",
+      "earlier": "Inflow described as a trickle over the past year. No quarterly inflow figure given.",
+      "later": "Q2 new order wins of Rs.94 Cr, almost Rs.90 Cr from subsidiaries (per analyst, not disputed). The numbers also reconcile: Rs.754 Cr less Q2 revenue of Rs.173.57 Cr plus Rs.94 Cr is about Rs.675 Cr.",
+      "change": "Worsened. Zen standalone inflow was near zero and book-to-bill was about 0.5x.",
+      "quote_earlier": "orders have been very, very slow. They have been reduced to a trickle.",
+      "quote_later": "in this quarter out of Rs.94 Crores worth of new order wins, almost Rs.90 Crores have been from your subsidiaries."
+    },
+    {
+      "topic": "Order book mix (simulators vs anti-drone)",
+      "earlier": "Excluding AMC: training simulators about Rs.282 Cr and anti-drone systems about Rs.64 Cr",
+      "later": "No simulator vs ADS split given; equipment Rs.375 Cr in total",
+      "change": "Mix visibility dropped.",
+      "quote_earlier": "And the training simulation is about 282, 282 Crores is training simulators and anti-drone system about 64.",
+      "quote_later": null
+    },
+    {
+      "topic": "Expected large simulator orders (Rs.650 Cr)",
+      "earlier": "About Rs.650 Cr of army simulator orders expected by end September. Zen is the last man standing, so award is almost certain; only timing is open.",
+      "later": "Not received. Now expected in H2 FY26, with 'no question of it spilling out to 2027', but management will not commit to a date.",
+      "change": "Slipped by at least one quarter. Certainty language is retained but the timing commitment is dropped.",
+      "quote_earlier": "We are the last man standing as of now so the likelihood of order is coming is almost certain.",
+      "quote_later": "we are not able to really commit by when they will get the order. But we think it will be sooner than later."
+    },
+    {
+      "topic": "Emergency procurement and anti-drone tenders",
+      "earlier": "Real emergency procurement expected to start in a few weeks. Orders to be placed by March, possibly as early as Q3. Hard kill preferred. Size not quantifiable.",
+      "later": "ADS tenders have only just been floated; results expected in the next couple of months. Each emergency order is typically under Rs.300 Cr, and orders must be concluded before March 2026 unless extended.",
+      "change": "Timeline slipped. Process is still at the tender and evaluation stage, with no orders yet. An order-size cap of Rs.300 Cr is a new data point.",
+      "quote_earlier": "typically they will have to finish the procurement by March.",
+      "quote_later": "each order should be less than Rs.300 Crores because this emergency procurement, the size is typically limited to less than Rs.300 Crores"
+    },
+    {
+      "topic": "Execution timing of existing order book",
+      "earlier": "Equipment order book mostly executed in Q2, with a few orders spilling to Q3. Lead time is about 4 months for simulators and about 6 months for ADS.",
+      "later": "Considerable part of the order book to be executed in H2. Supply chain has adequate bandwidth.",
+      "change": "Slipped from mostly Q2 to H2. Q2 revenue rose only about 12% QoQ.",
+      "quote_earlier": "Maybe most of the equipment orders will be executed in Q2, but yes a few equipment orders will be spilled over to Q3 also.",
+      "quote_later": "in H2 we will be executing considerable part of the order book that we have."
+    },
+    {
+      "topic": "Lead time from order to delivery",
+      "earlier": "About 4 months for simulators, up to 6 months for ADS",
+      "later": "Not mentioned",
+      "change": "Not revisited. Orders landing in H2 would deliver little revenue in FY26 given these lead times.",
+      "quote_earlier": "Typically the lead time is around four months for simulators",
+      "quote_later": null
+    },
+    {
+      "topic": "Tender pipeline and RFPs",
+      "earlier": "Tenders expected to come up pretty soon",
+      "later": "Some RFPs, mostly anti-drone, have now come out and are expected to grow in size. Large orders are expected in FY27. No details given.",
+      "change": "Partly delivered. Tenders are out but no awards yet.",
+      "quote_earlier": "we expect the tenders to come up pretty soon",
+      "quote_later": "we have some RFPs that have come up again"
+    },
+    {
+      "topic": "Hard kill order win",
+      "earlier": "Management said there would be some very good hard kill announcements over the next few quarters.",
+      "later": "A hard kill system contract was won (referred to by an analyst as a recent press release). It is described as a single-vendor situation. Management is unsure of the quantity ('maybe two systems').",
+      "change": "Delivered in part. Order size is undisclosed and management is vague on it.",
+      "quote_earlier": "As we go into the next few quarters, you will see some very good announcements in this area",
+      "quote_later": "this was a typically single vendor situation, resulting single, nobody else could even come up with the offer to the government."
+    }
+  ],
+  "promises_tracker": [
+    {
+      "topic": "Q1 revenue deferral of about Rs.60-70 Cr to Q2",
+      "earlier": "Revenue of about Rs.60-70 Cr was deferred from Q1 to Q2 because of customer spec changes, and would be recognised in Q2.",
+      "later": "No explicit update on recognition. Q2 standalone revenue was Rs.124.65 Cr, 'much better than Q1', but still down about 48% YoY.",
+      "change": "Unclear / not addressed. The sequential uplift of only about Rs.13.7 Cr does not clearly show the Rs.60-70 Cr coming through.",
+      "quote_earlier": "A little more than between 60 to 70 Crores is my estimate on that.",
+      "quote_later": "However, in Q2 FY2026, this is much better than Q1 FY2026."
+    },
+    {
+      "topic": "Rs.650 Cr simulator orders by end September",
+      "earlier": "Orders would come through by end September (H1)",
+      "later": "Not received. Management admits it was 'very wrong' about the slowness of the government's procurement.",
+      "change": "Slipped",
+      "quote_earlier": "we still feel that orders will come through by end of September",
+      "quote_later": "We were actually very sure that it will come by September 30th. But we were very wrong about the slowness with which things would happen."
+    },
+    {
+      "topic": "Emergency procurement orders flowing in Q2/Q3",
+      "earlier": "Orders to continue in Q2 and Q3; big emergency procurement starting within weeks",
+      "later": "ADS tenders only just floated; evaluations and orders still awaited",
+      "change": "Slipped",
+      "quote_earlier": "the real emergency procurement has to go in a big way which will be starting in the next few weeks",
+      "quote_later": "anti-drone system tenders have just been floated."
+    },
+    {
+      "topic": "Significant H2 order inflow, including anti-drone",
+      "earlier": "H2 would have significant order inflow, with considerable ADS orders in addition to simulators",
+      "later": "Results expected in the next couple of months; hopeful but hedged",
+      "change": "Changed. The promise is retained but timing is softer.",
+      "quote_earlier": "H2 will have significant order inflow. There is no doubt about that.",
+      "quote_later": "in the next couple of months, most some of the results will come through and you will probably hear good news"
+    },
+    {
+      "topic": "Export orders in H2 FY26; FY27 as a big year",
+      "earlier": "Some export orders in H2, with FY27 significant. US, South America and NATO orders in FY27.",
+      "later": "Pleasant surprises in exports expected 'between H2 and H1 of next year'. No mention of US or NATO.",
+      "change": "Changed. The window has widened into H1 FY27 and the US/NATO commentary is dropped.",
+      "quote_earlier": "we think that H2, the second half we should be getting some orders in export",
+      "quote_later": "we do hope that between H2 and H1 of next year, there will be very, very some very nice pleasant surprises in exports market"
+    },
+    {
+      "topic": "ARI to contribute about Rs.170 Cr and become a 100% subsidiary by year-end",
+      "earlier": "ARI to add about Rs.170 Cr of revenue this year and become a 100% subsidiary by year-end (76% held now)",
+      "later": "Not addressed. Only ARIPL's order book of about Rs.92 Cr is disclosed.",
+      "change": "Not addressed",
+      "quote_earlier": "they will ask almost 170 Crores of top line to our turnover that will be 100% subsidiary by the end of the year",
+      "quote_later": "ARIPL is around Rs.92 Crores"
+    },
+    {
+      "topic": "Loitering munition (kamikaze) demonstration within about 1.5 years",
+      "earlier": "Loitering munition version expected to be ready for full demonstration in about a year and a half",
+      "later": "Not mentioned",
+      "change": "Not addressed",
+      "quote_earlier": "in a year and a half, the loitering munitions version should be ready for full fledged demonstration",
+      "quote_later": null
+    },
+    {
+      "topic": "AI results in 'next few months'",
+      "earlier": "AI would start yielding significant results in the next few months and management would update investors",
+      "later": "AI is described as a real obsession. It is split into process AI and product AI, but no quantified results. The analyst's question on R&D allocated to AI went unanswered in numbers.",
+      "change": "Partly delivered. This is narrative only, with no metrics.",
+      "quote_earlier": "Transforming Zen into an AI native company",
+      "quote_later": "AI has become a real obsession within the company."
+    },
+    {
+      "topic": "FY26 capex of Rs.40-50 Cr",
+      "earlier": "Rs.40-50 Cr capex for FY26",
+      "later": "Not mentioned",
+      "change": "Not addressed",
+      "quote_earlier": "In FY2026 there is no significant, maybe Rs.40 to 50 Crores capex will be there.",
+      "quote_later": null
+    }
+  ],
+  "strategy_shifts": [
+    {
+      "topic": "Product mix: simulators vs anti-drone",
+      "earlier": "ADS and non-simulator lines (hard kill, surveillance, robotics) could reach 40-50% of simulator revenue, possibly 50:50.",
+      "later": "Mix of the Rs.6000 Cr target previously thought 40-60, now thinking 50-50. ADS pipeline is described as very strong after Operation Sindoor. Only simulators and ADS are the focus.",
+      "change": "Expanded. ADS weight is rising and the framing is narrower: simulators and ADS only.",
+      "quote_earlier": "I think they may become as big as 50:50.",
+      "quote_later": "But typically, we are thinking, we are thinking 40–60, but now we are starting to think maybe it is 50-50 kind of thing."
+    },
+    {
+      "topic": "Drones, kamikaze and loitering munitions",
+      "earlier": "Invested in UAV and loitering munition capability (TISA), targeting kamikaze drones and aiming for global number one. 'Investing a lot of money now'.",
+      "later": "'We are not doing drones at this point in time.' Focus is exceptionally on ADS. Vector is described as trying to build better drones.",
+      "change": "Narrowed. The drone ambition is downplayed.",
+      "quote_earlier": "Kamikaze drones. At this point in time, only kamikaze.",
+      "quote_later": "the thing is we are not doing drones at this point in time, we are focusing exceptionally on anti-drone systems"
+    },
+    {
+      "topic": "Hard kill and integrated solution",
+      "earlier": "Hard kill is a key area of focus and investment. Zen was the only firm to bring a hard kill system to the Army trial.",
+      "later": "Hard kill is positioned as a one-stop solution via subsidiaries (remote weapon stations, robotics), integrated with L70. A contract has been won.",
+      "change": "Expanded, moving from intent to a win and a bundled offering.",
+      "quote_earlier": "And I think hard kill is a area that we are really focusing on.",
+      "quote_later": "I think we were the only one stop shop solution for the complete hard kill requirement."
+    },
+    {
+      "topic": "Acquisition strategy and focus",
+      "earlier": "Acquisitions described by theme (ARI, Vector, TISA); the stated aim is to build indigenous ecosystems.",
+      "later": "Four acquisitions framed as accretive to strategy, subsumed in the Rs.6000 Cr target. Management does not want to pivot and will go deeper into simulation and ADS, with a possible new air force simulator acquisition.",
+      "change": "Unchanged in logic, with a new element: air force simulators and further acquisitions.",
+      "quote_earlier": null,
+      "quote_later": "we are trying to build our own air force simulators, but we are also looking at some interesting acquisitions in that regard."
+    },
+    {
+      "topic": "Export markets",
+      "earlier": "Africa, Middle East, CIS and Southeast Asia, plus the US, South America and NATO in FY27 through ARI's dealer network.",
+      "later": "Africa, Middle East, CIS and Southeast Asia (leveraging ARI's Singapore office). Government is pushing sales to friendly allied nations. NATO and US are not mentioned.",
+      "change": "Unchanged for the core regions. US and NATO commentary dropped.",
+      "quote_earlier": "We talk about Africa. We talk about Middle East and we talk about CIS countries and we also now looking at Southeast Asia.",
+      "quote_later": "Indian government is pushing us to go and sell to friendly allied nations"
+    },
+    {
+      "topic": "AI strategy",
+      "earlier": "AI-native transformation across products and operations.",
+      "later": "AI split into process AI and product AI (one-on-one AI coaching in simulators, threat classification in ADS).",
+      "change": "Expanded in articulation, with no metrics.",
+      "quote_earlier": "Transforming Zen into an AI native company",
+      "quote_later": "AI has become a real obsession within the company."
+    },
+    {
+      "topic": "Indigenous IP and partnering stance",
+      "earlier": "Positions ADS leadership on wideband IDDM qualification and open to collaborating if a better product exists.",
+      "later": "Stresses IP ownership and malware risk, plus a frequency range of 100 MHz to 12 GHz. Open to technology partnership only if it is not a manufacturing arrangement.",
+      "change": "Expanded. Government's Indian-IP preference is now a central argument.",
+      "quote_earlier": "So we still stand a good chance if they really go for the product with what is actually being used and will be used in future.",
+      "quote_later": "we are way ahead of the game and we are still investing in more futuristic R&D."
+    }
+  ],
+  "risks_and_concerns": [
+    {
+      "topic": "Order delays from emergency procurement crowd-out",
+      "earlier": "Regular simulator procurement slowed by post-Sindoor emergency procurement.",
+      "later": "The same explanation, now explicitly blamed for the weak order book and delayed Rs.650 Cr.",
+      "change": "Worsened. The delay has extended another quarter.",
+      "quote_earlier": "the regular procurements were kind of a little slowed down because of the new emergency procurement",
+      "quote_later": "this delay in orders has been attributable to the government's extreme focus on emergency procurement post-Operation Sindoor."
+    },
+    {
+      "topic": "FY26 visibility and credibility of the Rs.6000 Cr target",
+      "earlier": "Analyst asked what 'muted' means. Management could not quantify and said it depends on the order book at end of Q2.",
+      "later": "Analysts question whether the target spills to FY29 and call the required scale-up very difficult.",
+      "change": "Worsened. The target is now openly challenged.",
+      "quote_earlier": "Very frankly, that will all depend on the order book that we have by end of Q2.",
+      "quote_later": "we are looking little worried about the scale up to Rs.6000 Crores in three years’ time"
+    },
+    {
+      "topic": "Customer spec changes causing revenue deferral",
+      "earlier": "Q1 miss attributed to design changes requested by the end user.",
+      "later": "Not cited as a driver in Q2.",
+      "change": "Resolved or at least not mentioned. The cause of the Q2 shortfall shifted to order timing.",
+      "quote_earlier": "because of some design changes asked by our end user, because of the evolving reality of war",
+      "quote_later": null
+    },
+    {
+      "topic": "Competition in anti-drone systems",
+      "earlier": "Many claimants (12 at pre-bid, 2 at trial in 2023). Management sees little real wideband capability among competitors.",
+      "later": "Analyst notes the space is getting crowded. Management concedes others may pick up orders through decentralised procurement.",
+      "change": "Worsened. Management concedes more than before.",
+      "quote_earlier": "there were 12 people who came for the pre-bid, but only two came to the actual trial",
+      "quote_later": "because there is too much of decentralization happening in the armed forces, there may be some orders that the others are picking up."
+    },
+    {
+      "topic": "Public-sector advantage (BEL/DRDO) in ADS orders",
+      "earlier": "Not mentioned",
+      "later": "Analyst notes media reports of ADS orders going to BEL/DRDO. Management concedes PSUs get direct nominations while Zen gets single-vendor benefit but is rarely nominated.",
+      "change": "New",
+      "quote_earlier": null,
+      "quote_later": "But again, one of the benefits of being, public sector is that you can place you get direct orders from the government."
+    },
+    {
+      "topic": "Low-cost drone threat and cost asymmetry",
+      "earlier": "Not mentioned",
+      "later": "Analyst asked whether cheap Shahed-type drones undermine drone and anti-drone firms. Management says soft kill is almost costless but hard kill is expensive.",
+      "change": "New",
+      "quote_earlier": null,
+      "quote_later": "Does this low priced and highly effective drone undermine drone and anti-drone companies globally including Zen, sir?"
+    },
+    {
+      "topic": "Supply chain and rare earth restrictions",
+      "earlier": "No impact on Zen's products; Vector may be affected on magnets but is seeking alternate sources. Raw material is not bought ahead of orders.",
+      "later": "Not revisited. Supply chain bandwidth is described as adequate.",
+      "change": "Eased or not revisited.",
+      "quote_earlier": "So the Chinese banning has not impacted us.",
+      "quote_later": "So we have enough bandwidth within the supply chain that to execute the order."
+    },
+    {
+      "topic": "Execution compression from no advance procurement",
+      "earlier": "Policy of not buying raw material until orders are received, so execution will be compressed once orders land.",
+      "later": "Expects to execute accretions; says there are no supply constraints.",
+      "change": "Persisting. With orders still pending, time left in FY26 is shrinking.",
+      "quote_earlier": "we do not buy the raw material in advance till we get the order, especially government orders.",
+      "quote_later": "So we have enough bandwidth within the supply chain that to execute the order."
+    },
+    {
+      "topic": "Consolidated margin dilution",
+      "earlier": "Consolidated operational EBITDA margin at 40.9%, above the 35% benchmark, helped by subsidiaries.",
+      "later": "Consolidated operational EBITDA margin down to 38% in Q2 and 40% for H1.",
+      "change": "Worsened modestly.",
+      "quote_earlier": null,
+      "quote_later": null
+    }
+  ],
+  "tone_and_language": [
+    {
+      "point": "Management admitted disappointment in both quarters, and the Q2 opener leads with the order book miss rather than a one-off cause.",
+      "quote_earlier": "this quarter has been kind of disappointing even for us.",
+      "quote_later": "results, which were not as encouraging as I would want it to be"
+    },
+    {
+      "point": "Order confidence shifted from near-certainty on a date (September) to 'when, not if', with an open admission of misjudging timing.",
+      "quote_earlier": "our expectation is that we will get the order for sure",
+      "quote_later": "this is just a question of when, not a question of if"
+    },
+    {
+      "point": "Management shows reticence about promising timing but still firmly rules out slippage into FY27. These stances sit in tension.",
+      "quote_earlier": null,
+      "quote_later": "But given the experience of H2, our confidence level, we are kind of a little reticent to actually give it with so much of confidence."
+    },
+    {
+      "point": "Q1 gave many specific numbers (Rs.650 Cr, Rs.170 Cr, Rs.250 Cr, capex, lead times). Q2 gave far fewer forward numbers and leaned on narrative, such as the dot-com analogy and the IDDM/Indian-IP theme.",
+      "quote_earlier": null,
+      "quote_later": "the big picture is playing out now, the version two of the growth, the way dot-com bust happened"
+    },
+    {
+      "point": "Management reframed the weak order book as a durable long-term positive (government wants Indian IP) in response to a question on whether anything fundamentally changed.",
+      "quote_earlier": null,
+      "quote_later": "I think in the long term, the story is intact,"
+    },
+    {
+      "point": "Management gave a qualitative answer to a pointed question on R&D spend allocated to AI initiatives, with no numbers.",
+      "quote_earlier": null,
+      "quote_later": "How much of the increased R&D spend in H1 nearly Rs.12.3 Crores allocated specifically to this AI initiatives?"
+    },
+    {
+      "point": "Management was visibly vague on the hard kill order size and conceded the Q2 timeline answer was stale.",
+      "quote_earlier": null,
+      "quote_later": "Now we are in September, it is the three or four months after the Operation Sindoor."
+    },
+    {
+      "point": "Management was more defensive on competition and margins, asserting 'no competition globally' while conceding many claimants exist.",
+      "quote_earlier": null,
+      "quote_later": "So there is no competition with respect to our anti drone system globally."
+    }
+  ],
+  "analyst_read": {
+    "improved": [
+      {
+        "point": "Sequential recovery: standalone revenue up about 12%, PAT up about 24%, and the consolidated YoY decline narrowed from -38% to -28%.",
+        "quote_earlier": null,
+        "quote_later": "However, in Q2 FY2026, this is much better than Q1 FY2026."
+      },
+      {
+        "point": "Standalone operational EBITDA margin held at about 34% against a 35% benchmark, even on a low revenue base.",
+        "quote_earlier": "Our guidance is around 35%.",
+        "quote_later": "In percentage terms, Operational EBITDA is 34% of the revenue compared to 33% in Q2 FY2025."
+      },
+      {
+        "point": "Balance sheet is strong: net cash of Rs.1103 Cr and debt free.",
+        "quote_earlier": null,
+        "quote_later": "Our net cash position as on 30th September 2025 is Rs.1103 Crores"
+      },
+      {
+        "point": "Hard kill contract won and ADS tenders and RFPs are now being floated, a step beyond the 'tenders soon' stage of Q1.",
+        "quote_earlier": "we expect the tenders to come up pretty soon",
+        "quote_later": "we have some RFPs that have come up again"
+      }
+    ],
+    "deteriorated": [
+      {
+        "point": "Order book fell from about Rs.754 Cr to under Rs.675 Cr, with Zen standalone down about 20% and Q2 inflow of only about Rs.94 Cr, mostly from subsidiaries.",
+        "quote_earlier": "our total order book position is around Rs.754 Crore out of which 148 Crores rupees is for the subsidiaries",
+        "quote_later": "in this quarter out of Rs.94 Crores worth of new order wins, almost Rs.90 Crores have been from your subsidiaries."
+      },
+      {
+        "point": "The 'regular' simulator order cycle remains stuck. The Rs.650 Cr order, once certain by September, is now only H2 with no committed date.",
+        "quote_earlier": "we still feel that orders will come through by end of September",
+        "quote_later": "we are not able to really commit by when they will get the order."
+      },
+      {
+        "point": "FY26 now looks muted for the full year (H2 below last year), which puts more weight on FY27-28 to deliver the Rs.6000 Cr target.",
+        "quote_earlier": null,
+        "quote_later": "it will not be as good as last year, but it will be muted. The whole year will be muted."
+      },
+      {
+        "point": "Consolidated operational EBITDA margin eased from 40.9% to 38% QoQ and the competitive tone on ADS is more hedged.",
+        "quote_earlier": null,
+        "quote_later": "there may be some orders that the others are picking up."
+      }
+    ],
+    "red_flags": [
+      {
+        "point": "Repeated slippage on order timing: the Rs.650 Cr simulator order moved from Q2 to H2, and emergency procurement orders expected in Q2/Q3 are not yet awarded. Management's confidence did not predict the delay.",
+        "quote_earlier": "we still feel that orders will come through by end of September",
+        "quote_later": "We were actually very sure that it will come by September 30th. But we were very wrong about the slowness with which things would happen."
+      },
+      {
+        "point": "The Q1 revenue deferral (Rs.60-70 Cr) was promised for Q2, but Q2 standalone revenue rose only about Rs.13.7 Cr QoQ. There is no explanation of whether the deferred revenue was recognised.",
+        "quote_earlier": "A little more than between 60 to 70 Crores is my estimate on that.",
+        "quote_later": "Our revenue from operation was Rs.124.65 Crores, compared to Rs.241.69 Crores in Q2 FY2025."
+      },
+      {
+        "point": "Widening gap to target: H1 FY26 consolidated revenue is only Rs.331.79 Cr, and management holds the Rs.6000 Cr target and rejects FY29 spill-over while conceding FY26 is muted. Required order inflow is far above the recent run-rate (analyst cites about Rs.100 Cr per quarter).",
+        "quote_earlier": "we still feel very confident that we can achieve the 6000 plus Crores target",
+        "quote_later": "I think the chance of this Rs.6000 Crores going to FY2029 is not there as of now"
+      },
+      {
+        "point": "Subsidiary dependence: about Rs.90 Cr of Rs.94 Cr Q2 order wins came from subsidiaries. The Q1 guide of about Rs.250 Cr subsidiary revenue is not reiterated and ARI's 100% buyout is not mentioned.",
+        "quote_earlier": "you can add Rs.250 Crores revenue from the subsidiaries.",
+        "quote_later": "in this quarter out of Rs.94 Crores worth of new order wins, almost Rs.90 Crores have been from your subsidiaries."
+      },
+      {
+        "point": "The explanation shifted: Q1 blamed spec changes and emergency procurement crowding out simulators, while Q2 blames orders only. The ADS emergency orders now being awaited were expected in Q1 to flow in Q2/Q3.",
+        "quote_earlier": "because of some design changes asked by our end user, because of the evolving reality of war",
+        "quote_later": "anti-drone system tenders have just been floated."
+      }
+    ],
+    "inconsistencies": [
+      {
+        "point": "Q1 said Zen is investing heavily in kamikaze/loitering munitions (TISA) with a demonstration targeted in about 1.5 years; Q2 says Zen is not doing drones at this point in time.",
+        "quote_earlier": "So we are investing a lot of money now as we speak.",
+        "quote_later": "the thing is we are not doing drones at this point in time, we are focusing exceptionally on anti-drone systems"
+      },
+      {
+        "point": "Q2 claims no global competition in ADS, yet the same call concedes many claimants and others picking up orders. Q1 also said many claimants but 'a good chance' for Zen.",
+        "quote_earlier": "there were 12 people who came for the pre-bid, but only two came to the actual trial",
+        "quote_later": "So there is no competition with respect to our anti drone system globally."
+      },
+      {
+        "point": "Product mix framing differs: Q1 framed non-simulators (hard kill, surveillance, robotics) reaching 50:50, while Q2 says the mix is only between simulators and ADS, shifting from 40-60 to 50-50.",
+        "quote_earlier": "I think they may become as big as 50:50.",
+        "quote_later": "So, in terms of product mix, we are looking only between simulators and anti-drone systems"
+      },
+      {
+        "point": "Q2 acknowledges a timing misjudgement, yet still says there is 'no question' of spill-over to FY27 while declining to give a date.",
+        "quote_earlier": null,
+        "quote_later": "But I think orders are on track and we should be getting them, sooner than later, probably, but definitely naturally, there is no question of it spilling out to 2027."
+      },
+      {
+        "point": "The Q2 consolidated revenue base for Q2 FY25 is stated as Rs.24.84 Cr, inconsistent with the stated 28% degrowth. It looks like a transcription or misstatement.",
+        "quote_earlier": null,
+        "quote_later": "Total consolidated revenue for the Q2 FY2026 is around Rs.173.57 Crores compared to Rs.24.84 Crores in Q2 FY2025."
+      }
+    ]
+  },
+  "bottom_line": "Between Q1 and Q2 FY26, earnings recovered sequentially (standalone revenue up about 12%, PAT up about 24%) with margins steady near 34%, but the order book weakened. It fell from about Rs.754 Cr to under Rs.675 Cr, with Rs.94 Cr of Q2 order wins coming mostly from subsidiaries. The Rs.650 Cr simulator order promised by September slipped to an uncommitted H2, ADS emergency orders are still at tender stage, and FY26 is now explicitly muted for the whole year. Management retains the Rs.6000 Cr FY26-28 target and rules out FY29 spill-over, but the Q1 numeric guidance on subsidiary revenue and capex was not repeated, and the drone ambition was narrowed to ADS with a stronger Indian-IP narrative. The thesis now rests on FY27-28 order conversion.",
+  "follow_up_questions": [
+    "What drove the Q2 order inflow of Rs.94 Cr, and why did Zen standalone secure almost nothing despite emergency procurement and ADS tenders?",
+    "Was the Rs.60-70 Cr Q1 revenue deferral recognised in Q2? If so, what was the underlying Q2 run-rate excluding it?",
+    "Why did Zen standalone equipment backlog fall (Rs.346 Cr earlier) while the AMC share of the book appears larger? Provide the Q2 equipment, AMC and ADS/simulator split for Zen versus subsidiaries.",
+    "What is the current status of the Rs.650 Cr army simulator RFP (technical, commercial, financial stage)? What has changed in the evaluation since September, and why is H2 more reliable than the earlier September call?",
+    "Which anti-drone RFPs have been floated, what are their sizes and what share can Zen win? How does the Rs.300 Cr cap on each emergency order affect the potential?",
+    "Given H1 FY26 consolidated revenue of Rs.331.79 Cr, what does management assume for FY26 revenue and orders, and how much of Rs.6000 Cr must be delivered in FY27 and FY28 each? Is the Rs.500-750 Cr quarterly run-rate realistic given the 4-6 month lead times?",
+    "What is the status of the ARI 100% buyout and the Rs.170 Cr ARI revenue guide? Why was the Rs.250 Cr subsidiary revenue guide not repeated?",
+    "What size and quantity is the hard kill contract, and is repeat or retrofit demand (for example L70 guns) visible?",
+    "What happened to the US/NATO order expectation for FY27 and the loitering munitions programme timeline?",
+    "What are the R&D spend and AI-specific allocations for FY26, and when will measurable AI benefits appear?"
+  ]
+}
