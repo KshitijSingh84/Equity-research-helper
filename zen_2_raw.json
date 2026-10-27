@@ -1,0 +1,496 @@
+{
+  "company": "Zen Technologies Limited",
+  "quarter": "Q2 FY26",
+  "call_date": "October 27, 2025",
+  "financial_table": [
+    {
+      "metric": "Standalone revenue from operations (Q2)",
+      "current": "Rs.124.65 Crores",
+      "previous": "Rs.241.69 Crores",
+      "change": "approx. -48.4% YoY (calculated)",
+      "source_quote": "Our revenue from operation was Rs.124.65 Crores, compared to Rs.241.69 Crores in Q2 FY2025."
+    },
+    {
+      "metric": "Standalone operational EBITDA (Q2)",
+      "current": "Rs.42.10 Crores",
+      "previous": "Rs.79.69 Crores",
+      "change": "approx. -47.2% YoY (calculated)",
+      "source_quote": "Our Operational EBITDA for the Q2 FY2026 decreased to Rs.42.10 Crores compared to Rs.79.69 Crores in Q2 FY2025."
+    },
+    {
+      "metric": "Standalone operational EBITDA margin (Q2)",
+      "current": "34%",
+      "previous": "33%",
+      "change": "+1 pt",
+      "source_quote": "In percentage terms, Operational EBITDA is 34% of the revenue compared to 33% in Q2 FY2025."
+    },
+    {
+      "metric": "Standalone total EBITDA (Q2)",
+      "current": "Rs. 64.79 Crores (52% margin)",
+      "previous": "Rs. 87.84 Crores (36% margin)",
+      "change": "approx. -26.2% YoY (calculated)",
+      "source_quote": "Our total EBITDA is Rs. 64.79 Crores compared to Rs. 87.84 Crores in Q2 FY2025."
+    },
+    {
+      "metric": "Standalone PAT (Q2)",
+      "current": "Rs. 46.16 Crores",
+      "previous": "Rs. 65.24 Crores",
+      "change": "approx. -29.2% YoY (calculated)",
+      "source_quote": "Our profit after tax has decreased to Rs. 46.16 Crores in Q2 FY2026 compared to Rs. 65.24 Crores in the same period last year."
+    },
+    {
+      "metric": "Standalone PAT margin (Q2)",
+      "current": "37%",
+      "previous": "27%",
+      "change": "+10 pts",
+      "source_quote": "The profit after tax in percentage terms is 37% compared to 27% in Q2 FY2025."
+    },
+    {
+      "metric": "Standalone revenue (H1)",
+      "current": "Rs.235.71 Crores",
+      "previous": "Rs.495.64 Crores",
+      "change": "approx. -52.4% YoY (calculated)",
+      "source_quote": "our revenue for the H1 FY2026 is Rs.235.71 Crores compared to Rs.495.64 Crores in H1 FY2025."
+    },
+    {
+      "metric": "Standalone operational EBITDA (H1)",
+      "current": "Rs.81.27 Crores",
+      "previous": "Rs. 183.73 Crores",
+      "change": "approx. -55.8% YoY (calculated)",
+      "source_quote": "Our operational EBITDA for the H1 FY2026 decreased to Rs.81.27 Crores compared to Rs. 183.73 Crores in H1 FY2025."
+    },
+    {
+      "metric": "Standalone operational EBITDA margin (H1)",
+      "current": "34%",
+      "previous": "37%",
+      "change": "-3 pts",
+      "source_quote": "Operational EBITDA in percentage terms is 34% compared to 37% in H1 FY2025."
+    },
+    {
+      "metric": "Standalone PAT (H1)",
+      "current": "Rs.83.28 Crores (35% margin)",
+      "previous": "Rs.139.42 Crores (28% margin)",
+      "change": "approx. -40.3% YoY (calculated)",
+      "source_quote": "our profit after tax has reduced to Rs.83.28 Crores compared to Rs.139.42 Crores in H1 FY2025."
+    },
+    {
+      "metric": "Consolidated revenue (Q2)",
+      "current": "Rs.173.57 Crores",
+      "previous": "Rs.24.84 Crores (as stated; appears to be a slip, see inconsistencies)",
+      "change": "-28% (as stated by management)",
+      "source_quote": "Total consolidated revenue for the Q2 FY2026 is around Rs.173.57 Crores compared to Rs.24.84 Crores in Q2 FY2025."
+    },
+    {
+      "metric": "Consolidated operational EBITDA (Q2)",
+      "current": "Rs.65.54 Crores (38% margin)",
+      "previous": "Rs.80.31 Crores (33% margin)",
+      "change": "approx. -18.4% YoY (calculated)",
+      "source_quote": "Our consolidated operational EBITDA for the Q2 FY2026 has decreased to Rs.65.54 Crores compared to Rs.80.31 Crores in Q2 FY2025."
+    },
+    {
+      "metric": "Consolidated total EBITDA (Q2)",
+      "current": "Rs.90.05 Crores (52% margin)",
+      "previous": "Rs.88.48 Crores (37% margin)",
+      "change": "approx. +1.8% YoY (calculated)",
+      "source_quote": "Consolidated EBITDA for the Q2 FY2026, total EBITDA is Rs.90.05 Crores compared to Rs.88.48 Crores in Q2 FY2025."
+    },
+    {
+      "metric": "Consolidated PAT after non-controlling interest (Q2)",
+      "current": "Rs.59.40 Crores (34% margin)",
+      "previous": "Rs.62.67 Crores (26% margin)",
+      "change": "approx. -5.2% YoY (calculated)",
+      "source_quote": "has decreased to Rs.59.40 Crores compared to Rs.62.67 Crores in Q2 FY2025."
+    },
+    {
+      "metric": "Consolidated revenue (H1)",
+      "current": "Rs. 331.79 Crores",
+      "previous": "Rs.496.46 Crores",
+      "change": "approx. -33.2% YoY (calculated)",
+      "source_quote": "Rs. 331.79 Crores compared to Rs.496.46 Crores in H1 FY2025."
+    },
+    {
+      "metric": "Consolidated operational EBITDA (H1)",
+      "current": "Rs.131.47 Crores (40% margin)",
+      "previous": "Rs.192.53 Crores (39% margin)",
+      "change": "approx. -31.7% YoY (calculated)",
+      "source_quote": "Our consolidated operational EBITDA for the H1 FY2026 is Rs.131.47 Crores compared to Rs.192.53 Crores in H12025."
+    },
+    {
+      "metric": "Consolidated PAT after non-controlling interest (H1)",
+      "current": "Rs.107.15 Crores (32% margin)",
+      "previous": "Rs.139.48 Crores (28% margin)",
+      "change": "approx. -23.2% YoY (calculated)",
+      "source_quote": "after deducting non-controlling interest, reduced to Rs.107.15 Crores compared to Rs.139.48 Crores."
+    },
+    {
+      "metric": "Net cash position",
+      "current": "Rs.1103 Crores (as on 30th September 2025)",
+      "previous": "Not stated",
+      "change": "n/a",
+      "source_quote": "Our net cash position as on 30th September 2025 is Rs.1103 Crores and we continue to debt free status."
+    }
+  ],
+  "financial_notes": [
+    {
+      "point": "Standalone operational EBITDA margin was broadly held at 34% in Q2 (vs 33%) despite revenue roughly halving. H1 standalone margin slipped to 34% from 37%.",
+      "source_quote": "In percentage terms, Operational EBITDA is 34% of the revenue compared to 33% in Q2 FY2025."
+    },
+    {
+      "point": "Total EBITDA margin of 52% (vs 36%) was far above the 34% operational margin. By my calculation the gap is about Rs.22.7 Crores (64.79 less 42.10), which I read as other income. Other income cushioned the fall in standalone EBITDA and PAT, and PAT margin rose to 37%.",
+      "source_quote": "In percentage terms, EBITDA is 52% of the revenue compared to 36% in the last year."
+    },
+    {
+      "point": "Consolidated operational EBITDA margin of 38% in Q2 was higher than the standalone 34%, suggesting subsidiaries carried higher or equal margins. In H1 it was 40% consolidated vs 34% standalone.",
+      "source_quote": "The operational EBITDA on consolidated basis is 38% compared to 33% in Q2 FY2025."
+    },
+    {
+      "point": "Subsidiary contribution, calculated as consolidated less standalone: about Rs.48.9 Crores of Q2 revenue (173.57 less 124.65) and about Rs.96.1 Crores in H1 (331.79 less 235.71). Management did not give the subsidiary revenue split.",
+      "source_quote": "Total consolidated revenue for the Q2 FY2026 is around Rs.173.57 Crores"
+    },
+    {
+      "point": "Management said Q2 revenue was a sequential improvement over Q1 FY26, though it fell sharply YoY.",
+      "source_quote": "However, in Q2 FY2026, this is much better than Q1 FY2026."
+    },
+    {
+      "point": "Consolidated profit held up better than revenue: PAT fell about 5% against a 28% revenue decline in Q2, while total EBITDA was slightly up (Rs.90.05 Crores vs Rs.88.48 Crores).",
+      "source_quote": "And consolidated profit after tax, after adjusting non-controlling interest, has decreased to Rs.59.40 Crores compared to Rs.62.67 Crores in Q2 FY2025."
+    },
+    {
+      "point": "The balance sheet is strong: net cash of Rs.1103 Crores, debt free, and an asset-light model. This also implies sizeable treasury income behind the other-income support.",
+      "source_quote": "Zen remains focused on maintaining a strong liquidity and leveraging its asset light business model."
+    },
+    {
+      "point": "Management said R&D efficiency and in-house production efficiency underpin margins; no segment-wise margin numbers were given.",
+      "source_quote": "we operate very efficiently, R&D is very efficient, our productions are very efficient."
+    }
+  ],
+  "why_quarter": [
+    {
+      "point": "The CMD called the Q2 results not as encouraging as he wanted, and said order book build-up fell short of expectations.",
+      "source_quote": "results, which were not as encouraging as I would want it to be, was the order book position did not build up as we had sought out."
+    },
+    {
+      "point": "Management blamed the order delay on the government's focus on emergency procurement after Operation Sindoor. This helped anti-drone systems, but regular training, equipment and simulator procurement was delayed.",
+      "source_quote": "this delay in orders has been attributable to the government's extreme focus on emergency procurement post-Operation Sindoor."
+    },
+    {
+      "point": "The Rs.650 Crores of expected H1 order flow was simulators and training equipment, which got pushed by the operational-equipment focus.",
+      "source_quote": "that was those Rs.650 Crores that we talked about were related to simulators and training equipment."
+    },
+    {
+      "point": "Management admitted it mis-timed the order expectation.",
+      "source_quote": "We were actually very sure that it will come by September 30th. But we were very wrong about the slowness with which things would happen."
+    },
+    {
+      "point": "No anti-drone orders yet because the tenders were only just floated, and evaluation, RFP and order placement are still pending.",
+      "source_quote": "anti-drone system tenders have just been floated."
+    }
+  ],
+  "order_book": [
+    {
+      "point": "Consolidated order book is under Rs.675 Crores: Rs.375 Crores equipment and the remainder AMC (about Rs.300 Crores by subtraction).",
+      "source_quote": "it is under Rs.675 Crores, out of which Rs.375 Crores is equipment and remaining is for the AMC."
+    },
+    {
+      "point": "By entity: Zen Rs.484 Crores, UTS about Rs.98 Crores, ARIPL about Rs.92 Crores, Vector about Rs.1 Crores. Subsidiaries total Rs.190 Crores, about 28% of the book.",
+      "source_quote": "Out of this Rs.675 Crores order book Rs.484 is Zen, UTS is around Rs.98 Crores, ARIPL is around Rs.92 Crores and Vector is around Rs.1 Crores."
+    },
+    {
+      "point": "An analyst said Q2 new order wins were about Rs.94 Crores, of which about Rs.90 Crores came from subsidiaries. Management did not dispute or detail this.",
+      "source_quote": "in this quarter out of Rs.94 Crores worth of new order wins, almost Rs.90 Crores have been from your subsidiaries."
+    },
+    {
+      "point": "The expected Rs.650 Crores simulator and training orders are now guided for H2 FY26, with no spillover into FY27. Management is reticent on exact timing.",
+      "source_quote": "the orders will definitely come in H2, we are very confident about that."
+    },
+    {
+      "point": "Management said there is no question of the simulator orders spilling into FY27, but also said it cannot commit when the government will place them.",
+      "source_quote": "there is no question of it spilling out to 2027."
+    },
+    {
+      "point": "Emergency procurement orders are capped at under Rs.300 Crores each (within the vice chief's powers) and must conclude by March 2026 unless extended. Delivery is typically within about 12 months.",
+      "source_quote": "each order should be less than Rs.300 Crores"
+    },
+    {
+      "point": "Management expects anti-drone tender outcomes in the next couple of months, subject to the government's own timeline.",
+      "source_quote": "But they should happen in the next couple of months is what our expectation is."
+    },
+    {
+      "point": "New anti-drone RFPs have come out and order sizes are expected to be very big, but mainly in FY27 rather than now.",
+      "source_quote": "in 27, I think the size of the orders are going to be very, very big."
+    },
+    {
+      "point": "A considerable part of the existing order book will be executed in H2 FY26, with some further accretions expected.",
+      "source_quote": "in H2 we will be executing considerable part of the order book that we have."
+    },
+    {
+      "point": "The company recently won a hard-kill anti-drone contract (a press release was referenced). It was described as single-vendor, but management could not give the quantity.",
+      "source_quote": "Maybe it must be two systems or something like that. Not sure about the quantity."
+    }
+  ],
+  "guidance_outlook": [
+    {
+      "point": "Management said H2 FY26 will be muted and weaker than last year, and the whole of FY26 will be muted.",
+      "source_quote": "it will not be as good as last year, but it will be muted. The whole year will be muted."
+    },
+    {
+      "point": "Management expects FY27 and FY28 to more than make up for the FY26 shortfall.",
+      "source_quote": "2027-2028 will more than make up for the deficiency in the current year."
+    },
+    {
+      "point": "The cumulative Rs.6000 Crores revenue target is retained: Rs.6000 Crores less FY26 execution is to be executed in FY27 and FY28, conditional on the assumed order book.",
+      "source_quote": "6000 minus whatever we execute during FY2026 will be executed in FY2027 and 2028, assuming the order book will be in place"
+    },
+    {
+      "point": "Management sees little chance of the Rs.6000 Crores target slipping to FY29.",
+      "source_quote": "I think the chance of this Rs.6000 Crores going to FY2029 is not there as of now"
+    },
+    {
+      "point": "The indicative Rs.6000 Crores split between simulators and anti-drone systems has moved from 40-60 towards 50-50. The CMD called it a wild guess, with anti-drone leading demand.",
+      "source_quote": "I will make a very wild guess, and so I may be off the mark."
+    },
+    {
+      "point": "On execution scale-up, the company did Rs.250-300 Crores per quarter historically. The CMD called Rs.500 Crores per quarter easy and Rs.750 Crores per quarter achievable only with changes.",
+      "source_quote": "will we be able to scale to Rs.500 Crores? I think that is easy. 750 would require some changes, but we are hopeful that we will be able to achieve that."
+    },
+    {
+      "point": "Margins are described as sustainable for at least the next couple of years, with no quantified margin guidance. Management would match aggressive competitors on price if needed.",
+      "source_quote": "these margins are sustainable, at least in the next couple of years, we do not see any threat of margins being compromised."
+    },
+    {
+      "point": "Exports are expected to deliver positive surprises between H2 FY26 and H1 FY27. No numbers were given.",
+      "source_quote": "between H2 and H1 of next year, there will be very, very some very nice pleasant surprises in exports market"
+    },
+    {
+      "point": "Management expects the sector to keep growing for the next four to five years, with a roughly 10-year product lifecycle and recurring replacement and upgrade demand.",
+      "source_quote": "I think next four to five years, the growth will continue"
+    }
+  ],
+  "strategy": [
+    {
+      "theme": "Anti-drone systems",
+      "point": "Zen claims a differentiated, fully indigenous, IP-owned wideband anti-drone system that was the only one to qualify in 2023 and covers frequencies beyond commercial bands. It is offered as an integrated soft-kill plus hard-kill solution with subsidiaries.",
+      "source_quote": "we were the only people who qualified in that."
+    },
+    {
+      "theme": "Anti-drone systems",
+      "point": "The anti-drone pipeline has become very strong after Operation Sindoor and is expected to lead demand.",
+      "source_quote": "the pipeline for the anti-drone systems has become very strong post-Operation Sindoor"
+    },
+    {
+      "theme": "Anti-drone systems",
+      "point": "Threats evolve (ground-controlled to GPS-guided to AI waypoint drones), so systems need an upgrade every two to three years, creating continuing demand. The roadmap targets detection from 100 MHz to 12 GHz.",
+      "source_quote": "the systems will be required every two to three years upgradation will be required"
+    },
+    {
+      "theme": "Anti-drone systems",
+      "point": "Soft-kill jamming has negligible cost per engagement. Zen also integrates hard kill with L70 and other weapons, which management says is not very expensive.",
+      "source_quote": "as long as it is not a hard kill, it is just a soft kill blocking, jamming the signal"
+    },
+    {
+      "theme": "Anti-drone systems",
+      "point": "Zen does not make drones. It is focused on anti-drone systems, and Vector Techniques is working on a better counter to Shahed-type drones.",
+      "source_quote": "we are not doing drones at this point in time, we are focusing exceptionally on anti-drone systems"
+    },
+    {
+      "theme": "Simulators",
+      "point": "Simulators have a typical 10-year lifecycle, creating a recycling or refurbishment market. Demand is driven by nations preparing for war and needing faster, continuous training.",
+      "source_quote": "they will have a typical lifecycle of 10 years."
+    },
+    {
+      "theme": "Simulators",
+      "point": "Zen is building its own air force simulators and is also looking at acquisitions in this area. Simulators will be offered across three services, domestic and international.",
+      "source_quote": "we are trying to build our own air force simulators, but we are also looking at some interesting acquisitions in that regard."
+    },
+    {
+      "theme": "Exports",
+      "point": "Export focus regions are Africa, the Middle East and CIS. Southeast Asia is being accessed via ARI's Singapore office. Both simulators and anti-drone systems are in demand, with many anti-drone inquiries.",
+      "source_quote": "Africa is one region that we really focus on, we are looking at Middle East, we are looking at CIS countries"
+    },
+    {
+      "theme": "Subsidiaries and M&A",
+      "point": "Acquisitions (ARI for naval simulation, AI Turing for remote control weapon stations, Vector Techniques for drones, Bhairav Robotics for robotics) are strategic extensions. Their incremental solutions are included in the Rs.6000 Crores target.",
+      "source_quote": "the incremental solutions being offered by these companies are included in that, subsumed in that."
+    },
+    {
+      "theme": "Subsidiaries and M&A",
+      "point": "No pivot beyond simulation and anti-drone is planned unless there is an exceptional acquisition. The aim is global number one or two in three to five years, with a market of a couple of billion dollars in each segment.",
+      "source_quote": "we will go deeper into what we have because these markets have a lot of potential."
+    },
+    {
+      "theme": "R&D and new products",
+      "point": "The edge is attributed to deep in-house R&D and IP ownership. Zen is working on futuristic technologies and would partner only on a genuine technology collaboration, not as a manufacturing partner for foreign technology.",
+      "source_quote": "we are open to technical partnership as long as it is a technological partnership"
+    },
+    {
+      "theme": "AI",
+      "point": "AI is used both in internal processes and in products. Examples are an AI coach in simulators giving one-on-one training and threat classification in anti-drone systems. Management said it is at a very basic level of integration.",
+      "source_quote": "AI has become a real obsession within the company."
+    },
+    {
+      "theme": "Competition and moat",
+      "point": "Management says the government's push for indigenous IP, with software and design visibility, favours Zen over importers and resellers. It concedes that armed forces decentralisation means rivals may pick up some orders.",
+      "source_quote": "there may be some orders that the others are picking up."
+    },
+    {
+      "theme": "Competition and moat",
+      "point": "Zen has no direct government nomination as PSUs like BEL do, even though IDDM gives single-vendor benefits. Management argues BEL gets other orders, not anti-drone ones.",
+      "source_quote": "under IDDM, we get single vendor benefits but most of the time we will never be nominated"
+    },
+    {
+      "theme": "Competition and moat",
+      "point": "Competitors are described as cobbling together vendors with stacked margins, so they would struggle to match Zen on cost. Zen is also the only company that has integrated with and demonstrated on L70 air defence guns.",
+      "source_quote": "we know one very large company that has got about six vendors together to offer an offering that we were given."
+    }
+  ],
+  "supply_chain_risks": [
+    {
+      "point": "Production is largely outsourced through a value chain, and management sees no execution constraint on capacity.",
+      "source_quote": "we have enough bandwidth within the supply chain that to execute the order. So we do not think there is any constraint there."
+    },
+    {
+      "point": "Customer concentration and procurement dependence on the Indian armed forces. Zen is a prime contractor, and the government is pushing it to sell to friendly nations, which management says diversifies customers.",
+      "source_quote": "Indian government is pushing us to go and sell to friendly allied nations."
+    },
+    {
+      "point": "Government policy favours indigenous IP, with a demand for source-code visibility and in-house designs because of malware concerns. This favours Zen and disadvantages foreign-tech reliant competitors.",
+      "source_quote": "they are insisting that the software be ours and we should be able to read it"
+    },
+    {
+      "point": "PSUs like BEL can get direct nominated orders, which Zen cannot. This is a structural disadvantage in winning large deployments.",
+      "source_quote": "one of the benefits of being, public sector is that you can place you get direct orders from the government."
+    },
+    {
+      "point": "Emergency procurement is time-bound (conclusion by March 2026 unless extended) and capped per order, creating timing risk and limits on ticket size.",
+      "source_quote": "they have to be concluded before March of 2026, unless there is extension given to the EP."
+    },
+    {
+      "point": "Geopolitical demand drivers (multiple ongoing conflicts) support demand. Evolving threats such as AI-vision drones and high-altitude motherships require continuous R&D.",
+      "source_quote": "preparation for war is no longer an option, but an absolute necessity for every nation at this point in time."
+    }
+  ],
+  "analyst_read": {
+    "positives": [
+      {
+        "point": "Operational EBITDA margin was resilient at 34% standalone and 38% consolidated even with a sharp revenue fall, indicating pricing power or a low fixed-cost base.",
+        "source_quote": null
+      },
+      {
+        "point": "The balance sheet is very strong: net cash of Rs.1103 Crores, no debt, asset-light, which gives room for M&A and R&D while orders are slow.",
+        "source_quote": null
+      },
+      {
+        "point": "Management guided that anti-drone tenders and RFPs are now live, with emergency procurement to conclude by March 2026, giving a visible catalyst window.",
+        "source_quote": null
+      },
+      {
+        "point": "Management said the Rs.6000 Crores cumulative target is intact and does not slip to FY29, which shows conviction (though conditional).",
+        "source_quote": null
+      },
+      {
+        "point": "Subsidiaries now hold Rs.190 Crores of the order book and drove most Q2 order wins (per analyst), showing early diversification beyond standalone Zen.",
+        "source_quote": null
+      },
+      {
+        "point": "Hard-kill capability gives Zen an integrated soft-kill plus hard-kill offering, which management says is differentiated on IP and wideband coverage.",
+        "source_quote": null
+      }
+    ],
+    "concerns": [
+      {
+        "point": "The order book of about Rs.675 Crores is small against the Rs.6000 Crores target and H1 revenue of Rs.331.79 Crores consolidated. About Rs.300 Crores of it is AMC, so equipment visibility is thin.",
+        "source_quote": null
+      },
+      {
+        "point": "Heavy timing risk: management's own order timing was wrong (expected by September 30th). The H2 simulator order timing is still uncertain, and FY26 H2 is guided as muted.",
+        "source_quote": null
+      },
+      {
+        "point": "Reaching Rs.6000 Crores cumulatively by FY28 needs a step-change in quarterly execution (Rs.500-750 Crores per quarter versus Rs.250-300 Crores historical), and management conceded Rs.750 Crores would require changes.",
+        "source_quote": null
+      },
+      {
+        "point": "Earnings quality: the 52% total EBITDA margin and 37% PAT margin are inflated by other income (about Rs.22.7 Crores in Q2 by calculation). Core operational profit fell about 47% standalone.",
+        "source_quote": null
+      },
+      {
+        "point": "Competition in anti-drone is increasing and the mix is shifting towards it (from 40-60 to 50-50), so segment margins may converge or compress, which management brushed aside.",
+        "source_quote": null
+      },
+      {
+        "point": "Zen lacks nomination or direct-order access, unlike PSUs, and tends to win only via single-vendor or competitive routes. Emergency procurement orders are capped at under Rs.300 Crores each.",
+        "source_quote": null
+      },
+      {
+        "point": "Order wins in Q2 were small (about Rs.94 Crores per analyst) and mostly subsidiary-led, meaning the standalone business, where margins are visible, did not add much.",
+        "source_quote": null
+      }
+    ],
+    "evasive_or_unverifiable": [
+      {
+        "point": "Management did not give a timeline or quantum for anti-drone orders beyond 'next couple of months'. It declined to detail the RFPs ('for various reasons, we cannot really get into that').",
+        "source_quote": "for various reasons, we cannot really get into that."
+      },
+      {
+        "point": "The 50-50 simulator versus anti-drone split of the Rs.6000 Crores was self-described as a 'very wild guess'. No segment revenue or margin split was provided.",
+        "source_quote": "I will make a very wild guess, and so I may be off the mark."
+      },
+      {
+        "point": "The claim that Zen has no global competition on anti-drone cost and capability, and the claim that margins are sustainable for a couple of years, are unverifiable from the transcript.",
+        "source_quote": "there is no competition with respect to our anti drone system globally."
+      },
+      {
+        "point": "The hard-kill system size and quantity could not be stated, so the revenue implication of the recent contract cannot be extrapolated.",
+        "source_quote": "Not sure about the quantity."
+      },
+      {
+        "point": "Simulator order timing was stated as 'definitely' H2 and then qualified: management cannot commit to when, only 'sooner than later'.",
+        "source_quote": "we are not able to really commit by when they will get the order."
+      },
+      {
+        "point": "No FY26 revenue or margin guidance, no subsidiary revenue guidance and no capex number were given. The AI and R&D spend allocation question was not answered with numbers.",
+        "source_quote": null
+      }
+    ],
+    "inconsistencies": [
+      {
+        "point": "Consolidated Q2 FY25 revenue was stated as Rs.24.84 Crores, but a 28% degrowth from Rs.173.57 Crores implies a base of about Rs.241 Crores. This appears to be a misstatement.",
+        "source_quote": "Total consolidated revenue for the Q2 FY2026 is around Rs.173.57 Crores compared to Rs.24.84 Crores in Q2 FY2025."
+      },
+      {
+        "point": "Order book composition: the CFO said Rs.375 Crores is equipment, while an analyst cited about Rs.346 Crores of equipment order book. The subsidiary split sums to Rs.191 Crores (98+92+1) against the stated Rs.190 Crores. The book is stated as 'under Rs.675 Crores' while the components sum to exactly Rs.675 Crores.",
+        "source_quote": "So total subsidiaries is Rs.190 Crores."
+      },
+      {
+        "point": "Management was 'very wrong' on timing yet says orders will 'definitely' come in H2 with no spillover to FY27, while also saying it is 'reticent' to give confidence and cannot commit to timing.",
+        "source_quote": "we are kind of a little reticent to actually give it with so much of confidence."
+      },
+      {
+        "point": "Management says no competition exists globally for Zen's anti-drone systems, but also acknowledges many claimants and that others may pick up orders.",
+        "source_quote": "there are a lot of claimants at this point in time."
+      },
+      {
+        "point": "The CMD described anti-drone tenders as 'just floated' about a week ago and referenced 'we are now in September', although the call took place on October 27, 2025. The reference appears stale.",
+        "source_quote": "Now we are in September, it is the three or four months after the Operation Sindoor."
+      },
+      {
+        "point": "The simulator order was described as Rs.650 Crores by management and Rs.600-650 Crores by an analyst. The CMD referred to 'the experience of H2' when apparently meaning H1.",
+        "source_quote": "given the experience of H2, our confidence level"
+      }
+    ]
+  },
+  "follow_up_questions": [
+    "What is the breakdown of the Q2 other income (treasury income versus other items), and what is the underlying core PAT excluding it?",
+    "How much of the Rs.675 Crores order book is executable in H2 FY26 versus later, and what revenue does management expect for H2 FY26?",
+    "What is the size, customer, and expected bid timing of the Rs.650 Crores simulator and training opportunity, and what is the risk of it slipping beyond March 2026?",
+    "What are the sizes, bidder lists, and evaluation timelines of the anti-drone tenders now floated, and how many fall under the Rs.300 Crores emergency procurement cap?",
+    "What was the subsidiary-wise revenue and EBITDA contribution in Q2, and what are margins at UTS, ARIPL, Vector, and AI Turing?",
+    "How will the order book need to build quarter by quarter in FY27-FY28 to reach the Rs.6000 Crores cumulative revenue, and what would be the trigger for a revision?",
+    "What are the realised margins for simulators versus anti-drone systems, and how do they change at a 50-50 mix with soft-kill versus hard-kill content?",
+    "How does the hard-kill system's pricing compare with soft-kill, and how much bought-in content (weapons, RCWS) reduces margins?",
+    "What capex or working-capital needs are required to scale from Rs.250-300 Crores to Rs.500-750 Crores of quarterly execution, and what 'changes' are planned?",
+    "How big is the export pipeline (value, countries, conversion timing), and does ARI's Southeast Asia network have identified opportunities?",
+    "What is the R&D spend and capitalisation policy, and how much is directed to AI-based product development?",
+    "How does Zen plan to win orders when PSUs like BEL receive nominated orders, and what share of anti-drone tenders are open versus nominated?"
+  ]
+}
